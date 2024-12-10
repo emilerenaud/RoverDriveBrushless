@@ -133,6 +133,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RCKXSCYS
 
+[Document6]
+DocumentPath=MotorDriver.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HPWHNOTG
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for roverServoController\Design Rule Check - roverServoController.html
 DItemRevisionGUID=
@@ -1183,9 +1200,9 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=Microcontrollers.SchLib
-ComponentDesignItemID0=ESP32-S3-WROOM-1U
-ComponentSymbolReference0=ESP32-S3-WROOM-1U
+ComponentLibraryIdentifier0=MotorDrivers.SchLib
+ComponentDesignItemID0=IFX007TAUMA1
+ComponentSymbolReference0=IFX007TAUMA1
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1201,32 +1218,26 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Availability
+ParameterName0=Comment
 ParameterUpdate0=1
-ParameterName1=Comment
+ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=Component Kind
+ParameterName2=Description
 ParameterUpdate2=1
-ParameterName3=Description
+ParameterName3=Library Reference
 ParameterUpdate3=1
-ParameterName4=Library Reference
+ParameterName4=Mounted
 ParameterUpdate4=1
-ParameterName5=MF
+ParameterName5=Package / Case
 ParameterUpdate5=1
-ParameterName6=MP
+ParameterName6=Supplier 1
 ParameterUpdate6=1
-ParameterName7=Package
+ParameterName7=Supplier Part Number 1
 ParameterUpdate7=1
-ParameterName8=Supplier 1
-ParameterUpdate8=1
-ParameterName9=Supplier Part Number 1
-ParameterUpdate9=1
-ParameterName10=Value
-ParameterUpdate10=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=ESP32-S3-WROOM-1U
+ModelName0=DPAK127P1500X440-8N
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
@@ -1238,12 +1249,13 @@ PartTypes=0
 [NetInfos]
 Net1=NetName=1V2|NetColor=clYellow
 Net2=NetName=24V|NetColor=$000099FF
-Net3=NetName=2V5|NetColor=clLime
-Net4=NetName=3V3|NetColor=clRed
-Net5=NetName=5V|NetColor=clYellow
-Net6=NetName=AVDDH|NetColor=$007DC493
-Net7=NetName=AVDDL|NetColor=$0066D9FF
-Net8=NetName=VDDHS|NetColor=clBlack
+Net3=NetName=24V_RAW|NetColor=$000099FF
+Net4=NetName=2V5|NetColor=clLime
+Net5=NetName=3V3|NetColor=clRed
+Net6=NetName=5V|NetColor=clYellow
+Net7=NetName=AVDDH|NetColor=$007DC493
+Net8=NetName=AVDDL|NetColor=$0066D9FF
+Net9=NetName=VDDHS|NetColor=clBlack
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
