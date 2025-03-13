@@ -168,86 +168,170 @@ GenerateClassCluster=0
 DocumentUniqueId=RWZPLDXG
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for roverServoController\Design Rule Check - roverServoController.html
+DocumentPath=Project Outputs for roverDriveBrushless\Design Rule Check - roverDriveBrushless.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for roverSwitch\Design Rule Check - roverSwitch.html
+DocumentPath=Project Outputs for roverServoController\Design Rule Check - roverServoController.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for roverServoController\Gerber\NC Drill\roverServoController-RoundHoles.TXT
+DocumentPath=Project Outputs for roverSwitch\Design Rule Check - roverSwitch.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for roverServoController\Gerber\NC Drill\roverServoController-SlotHoles.TXT
+DocumentPath=Project Outputs for roverDriveBrushless\Gerber\NC Drill\roverDriveBrushless-RectHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for roverServoController\Gerber\NC Drill\roverServoController.DRR
+DocumentPath=Project Outputs for roverDriveBrushless\Gerber\NC Drill\roverDriveBrushless-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for roverServoController\Gerber\Gerber\roverServoController.EXTREP
+DocumentPath=Project Outputs for roverDriveBrushless\Gerber\NC Drill\roverDriveBrushless-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for roverServoController\Gerber\Gerber\roverServoController.G1
+DocumentPath=Project Outputs for roverDriveBrushless\Gerber\NC Drill\roverDriveBrushless.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for roverServoController\Gerber\Gerber\roverServoController.G2
+DocumentPath=Project Outputs for roverDriveBrushless\Gerber\Gerber\roverDriveBrushless.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for roverServoController\Gerber\Gerber\roverServoController.GBL
+DocumentPath=Project Outputs for roverDriveBrushless\Gerber\Gerber\roverDriveBrushless.G1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for roverServoController\Gerber\Gerber\roverServoController.GBO
+DocumentPath=Project Outputs for roverDriveBrushless\Gerber\Gerber\roverDriveBrushless.G2
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for roverServoController\Gerber\Gerber\roverServoController.GBP
+DocumentPath=Project Outputs for roverDriveBrushless\Gerber\Gerber\roverDriveBrushless.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for roverServoController\Gerber\Gerber\roverServoController.GBS
+DocumentPath=Project Outputs for roverDriveBrushless\Gerber\Gerber\roverDriveBrushless.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for roverServoController\Gerber\Gerber\roverServoController.GM
+DocumentPath=Project Outputs for roverDriveBrushless\Gerber\Gerber\roverDriveBrushless.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for roverServoController\Gerber\Gerber\roverServoController.GM2
+DocumentPath=Project Outputs for roverDriveBrushless\Gerber\Gerber\roverDriveBrushless.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for roverServoController\Gerber\Gerber\roverServoController.GTL
+DocumentPath=Project Outputs for roverDriveBrushless\Gerber\Gerber\roverDriveBrushless.GM
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for roverServoController\Gerber\Gerber\roverServoController.GTO
+DocumentPath=Project Outputs for roverDriveBrushless\Gerber\Gerber\roverDriveBrushless.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for roverServoController\Gerber\Gerber\roverServoController.GTP
+DocumentPath=Project Outputs for roverDriveBrushless\Gerber\Gerber\roverDriveBrushless.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for roverServoController\Gerber\Gerber\roverServoController.GTS
+DocumentPath=Project Outputs for roverDriveBrushless\Gerber\Gerber\roverDriveBrushless.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for roverServoController\Gerber\NC Drill\roverServoController.LDP
+DocumentPath=Project Outputs for roverDriveBrushless\Gerber\Gerber\roverDriveBrushless.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for roverServoController\Gerber\Gerber\roverServoController.REP
+DocumentPath=Project Outputs for roverDriveBrushless\Gerber\Gerber\roverDriveBrushless.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument21]
+DocumentPath=Project Outputs for roverDriveBrushless\Gerber\NC Drill\roverDriveBrushless.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for roverDriveBrushless\Gerber\Gerber\roverDriveBrushless.REP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for roverDriveBrushless\Gerber\Gerber\roverDriveBrushless.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for roverServoController\Gerber\NC Drill\roverServoController-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for roverServoController\Gerber\NC Drill\roverServoController-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for roverServoController\Gerber\NC Drill\roverServoController.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for roverServoController\Gerber\Gerber\roverServoController.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for roverServoController\Gerber\Gerber\roverServoController.G1
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for roverServoController\Gerber\Gerber\roverServoController.G2
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for roverServoController\Gerber\Gerber\roverServoController.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for roverServoController\Gerber\Gerber\roverServoController.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for roverServoController\Gerber\Gerber\roverServoController.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for roverServoController\Gerber\Gerber\roverServoController.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for roverServoController\Gerber\Gerber\roverServoController.GM
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for roverServoController\Gerber\Gerber\roverServoController.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for roverServoController\Gerber\Gerber\roverServoController.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for roverServoController\Gerber\Gerber\roverServoController.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for roverServoController\Gerber\Gerber\roverServoController.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for roverServoController\Gerber\Gerber\roverServoController.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for roverServoController\Gerber\NC Drill\roverServoController.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for roverServoController\Gerber\Gerber\roverServoController.REP
+DItemRevisionGUID=
+
+[GeneratedDocument42]
 DocumentPath=Project Outputs for roverServoController\Gerber\Gerber\roverServoController.RUL
 DItemRevisionGUID=
 
@@ -1174,7 +1258,7 @@ Type127=1
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
 L2=NNWNNNNWWWNWNWNWN
-L3=NWEENEEEENEWNNEWN
+L3=NWWENEEEENEWNNEWN
 L4=NNENNNWEENNWNENWN
 L5=NNNNNNNNNNNNNNNNN
 L6=NNENNNNEENNWNENWN

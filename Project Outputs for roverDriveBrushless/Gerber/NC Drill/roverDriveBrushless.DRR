@@ -1,0 +1,31 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: roverDriveBrushless.PcbDoc   2025-02-24  09:19:28
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : roverDriveBrushless-RoundHoles.TXT
+ASCII SlotHoles File : roverDriveBrushless-SlotHoles.TXT
+ASCII RectHoles File : roverDriveBrushless-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             155       PTH        548.09mm (21.58inch)
+T2      0.5mm (20mil)                                             Round             60        PTH        141.65mm (5.58inch)
+T3      0.6mm (24mil)                                             Round             13        PTH        12.00mm (0.47inch)
+T4      0.6mm (24mil)                                             Slot              4         PTH        30.05mm (1.18inch)
+T5      0.6mm (24mil)                                             Rectangle         2         PTH        29.24mm (1.15inch)
+T6      0.76mm (30mil)                                            Round             16        PTH        81.62mm (3.21inch)
+T7      0.9mm (35mil)                                             Round             6         PTH        10.00mm (0.39inch)
+T8      1mm (39mil)                                               Round             18        PTH        227.18mm (8.94inch)
+T9      1.6mm (63mil)                                             Round             4         PTH        16.72mm (0.66inch)
+T10     1.7mm (67mil)                                             Round             2         PTH        5.00mm (0.20inch)
+T11     2.3mm (91mil)                                             Round             3         PTH        18.00mm (0.71inch)
+T12     2.7mm (106mil)                                            Round             6         PTH        53.20mm (2.09inch)
+T13     3.2mm (126mil)                                            Round             4         PTH        93.00mm (3.66inch)
+T14     3.4mm (134mil)                                            Round             2         PTH        58.00mm (2.28inch)
+T15     0.71mm (28mil)                                            Round             2         NPTH       8.00mm (0.31inch)
+T16     3.2mm (126mil)                                            Round             4         NPTH       59.43mm (2.34inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              301
+
+Total Processing Time (hh:mm:ss) : 00:00:00

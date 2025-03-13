@@ -1,0 +1,26 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of PCB Document [roverDriveBrushless.PcbDoc]
+   Generated File[roverDriveBrushless.GTL]
+   Generated File[roverDriveBrushless.G1]
+   Generated File[roverDriveBrushless.G2]
+   Generated File[roverDriveBrushless.GBL]
+   Generated File[roverDriveBrushless.GTO]
+   Generated File[roverDriveBrushless.GBO]
+   Generated File[roverDriveBrushless.GTS]
+   Generated File[roverDriveBrushless.GBS]
+   Generated File[roverDriveBrushless.GTP]
+   Generated File[roverDriveBrushless.GBP]
+   Generated File[roverDriveBrushless.GM2]
+   Generated File[roverDriveBrushless.GM]
+   Generated File[roverDriveBrushless.GBR1]
+   Generated File[roverDriveBrushless.GBR2]
+   Generated File[roverDriveBrushless.RUL]
+   Generated File[roverDriveBrushless.EXTREP]
+   Generated File[roverDriveBrushless.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 09:19:33 On 2025-02-24
